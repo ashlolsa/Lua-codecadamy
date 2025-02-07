@@ -1,5 +1,5 @@
-Comparison Operators
-https://www.codecademy.com/courses/learn-lua/lessons/conditionals-logic-Lua/exercises/comparison-operators
+--Comparison Operators
+--https://www.codecademy.com/courses/learn-lua/lessons/conditionals-logic-Lua/exercises/comparison-operators
 
 --Add your code here
 A = 5 
