@@ -1,5 +1,5 @@
 --if statement
-https://www.codecademy.com/courses/learn-lua/lessons/conditionals-logic-Lua/exercises/the-if-statement
+--https://www.codecademy.com/courses/learn-lua/lessons/conditionals-logic-Lua/exercises/the-if-statement
 
 
 isSunny = true
