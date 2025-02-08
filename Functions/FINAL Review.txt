@@ -1,0 +1,23 @@
+everythig from now on codecadamy all said
+
+Review
+<1 min
+Congratulations on working through functions! Let’s review what we learned
+
+function getTravelTime(mph, miles)
+  travelTime = miles / mph
+  return travelTime
+end
+
+getTravelTime(10, 60) – returns a value of 6
+
+
+Functions are important for maximizing code-writing efficiency because they allow us to write code once and use it over and over. They have a few key components:
+
+function - The keyword telling Lua that we want to make a function
+getTravelTime - The name that describes what the function does, and is used when calling the function.
+(mph, miles) - Function parameters are used to increase our function’s flexibility.
+return travelTime - The return keyword tells Lua what to send back to our function call. I.e. the function above returns the travelTime variable.
+getTravelTime(...) - A function can be called by using it’s name followed by arguments. This runs the code inside the function.
+(10,60) - A function can have arguments that are values assigned to the parameters, like a value assigned to a variable.
+Functions can be as simple or as complex as desired but are a key tool for writing efficient, readable, and well-organized code.
